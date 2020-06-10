@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/visualizer/static/css/main.880151d9.chunk.css",
+    "main.js": "/visualizer/static/js/main.924356aa.chunk.js",
+    "main.js.map": "/visualizer/static/js/main.924356aa.chunk.js.map",
+    "runtime-main.js": "/visualizer/static/js/runtime-main.0e8bced8.js",
+    "runtime-main.js.map": "/visualizer/static/js/runtime-main.0e8bced8.js.map",
+    "static/js/2.e1eda1de.chunk.js": "/visualizer/static/js/2.e1eda1de.chunk.js",
+    "static/js/2.e1eda1de.chunk.js.map": "/visualizer/static/js/2.e1eda1de.chunk.js.map",
+    "index.html": "/visualizer/index.html",
+    "precache-manifest.9071b0f4dc5a54eee019fd092c50f629.js": "/visualizer/precache-manifest.9071b0f4dc5a54eee019fd092c50f629.js",
+    "service-worker.js": "/visualizer/service-worker.js",
+    "static/css/main.880151d9.chunk.css.map": "/visualizer/static/css/main.880151d9.chunk.css.map",
+    "static/js/2.e1eda1de.chunk.js.LICENSE.txt": "/visualizer/static/js/2.e1eda1de.chunk.js.LICENSE.txt",
+    "static/media/PathfinderDragon.module.css": "/visualizer/static/media/dbworld.000f1fec.jpg",
+    "static/media/index.module.css": "/visualizer/static/media/starwarsentry.996de70a.jpeg",
+    "static/media/PathfindingVisualizer.module.css": "/visualizer/static/media/space.4f71df7e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e8bced8.js",
+    "static/js/2.e1eda1de.chunk.js",
+    "static/css/main.880151d9.chunk.css",
+    "static/js/main.924356aa.chunk.js"
+  ]
+}
